@@ -1,4 +1,6 @@
 
+ ![alt text](image.png)
+
 # Personal Portfolio Website
 
 A modern, responsive portfolio website showcasing software development projects and skills. The site features a clean, minimalist design with smooth animations and interactive elements.
