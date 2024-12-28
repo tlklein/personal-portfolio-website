@@ -63,11 +63,7 @@ You can customize the website by:
 
 
 ## Main Colors Scheme
-These are the hex codes used for accents. 
-- E67FOD
-- FE4E00
-- E9190F
-- FF0F80
+ ![alt text](83A0CF27-32C8-49B9-A705-62098B96681D_1_105_c.jpeg)
 
 
 ---
