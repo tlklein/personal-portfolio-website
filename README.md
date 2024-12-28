@@ -77,7 +77,7 @@ These are the hex codes used for accents.
 
 Trinity Klein
 - GitHub: [@tlklein](https://github.com/tlklein)
-- LinkedIn: [trinity-klein](https://linkedin.com/in/trinity-klein)
+- LinkedIn: [/in/trinity-klein](https://linkedin.com/in/trinity-klein)
 - Email: tlklein@cougarnet.uh.edu
 
 
