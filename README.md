@@ -75,9 +75,3 @@ Trinity Klein
 - GitHub: [@tlklein](https://github.com/tlklein)
 - LinkedIn: [/in/trinity-klein](https://linkedin.com/in/trinity-klein)
 - Email: tlklein@cougarnet.uh.edu
-
-
-
-## License
-
-This project is open source and available under the MIT License.
