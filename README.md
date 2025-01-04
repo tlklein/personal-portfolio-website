@@ -23,6 +23,8 @@ portfolio-website/
 ├── src/
 │   └── main.css       # Stylesheet containing all styles
 └── README.md          # Project documentation & installation guide
+└── image.png          # Preview image
+└── 83A0CF27-32C8-49B9-A705-62098B96681D_1_105_c.jpeg    # Project color scheme & hex codes
 ```
 
 ## Getting Started

@@ -204,7 +204,7 @@
   .project-image {
     width: 100%;
     aspect-ratio: 16/9;
-    object-fit: fit;
+    object-fit: fill;
     transition: transform 0.3s ease;
   }
 
@@ -316,7 +316,7 @@
     background: white;
     border-radius: 12px;
     text-decoration: none;
-    color: #1d1d1f;
+    color: #6e6e73;
     font-weight: 500;
     border: 1px solid rgba(0,0,0,0.1);
     min-width: 160px; 
