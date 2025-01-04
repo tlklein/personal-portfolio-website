@@ -204,7 +204,7 @@
   .project-image {
     width: 100%;
     aspect-ratio: 16/9;
-    object-fit: fill;
+    object-fit: fit;
     transition: transform 0.3s ease;
   }
 
