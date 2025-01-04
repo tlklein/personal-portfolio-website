@@ -71,9 +71,9 @@ You can customize the website by:
 ---
 
 
-## Author
+# Author
 
-Trinity Klein
+## Trinity Klein
 - GitHub: [@tlklein](https://github.com/tlklein)
 - LinkedIn: [/in/trinity-klein](https://linkedin.com/in/trinity-klein)
 - Email: tlklein@cougarnet.uh.edu
