@@ -1,5 +1,5 @@
 
- ![alt text](image.png)
+ ![alt text](src\assests\image.png)
 
 # Personal Portfolio Website
 
@@ -19,12 +19,14 @@ A modern, responsive portfolio website showcasing software development projects 
 
 ```
 portfolio-website/
-├── index.html          # Main HTML file
+├── public/
+│   └── index.html          # Main HTML file
 ├── src/
+│   └── assests/
+│       ├── image.png          # Preview image
+|       └── color-scheme.jpeg  # Project color scheme & hex codes
 │   └── main.css       # Stylesheet containing all styles
-└── README.md          # Project documentation & installation guide
-└── image.png          # Preview image
-└── 83A0CF27-32C8-49B9-A705-62098B96681D_1_105_c.jpeg    # Project color scheme & hex codes
+└── README.md          # Project documentation & installation guide   
 ```
 
 ## Getting Started
@@ -65,7 +67,7 @@ You can customize the website by:
 
 
 ## Main Colors Scheme
- ![alt text](83A0CF27-32C8-49B9-A705-62098B96681D_1_105_c.jpeg)
+ ![alt text](src\assests\color-scheme.jpeg)
 
 
 ---
