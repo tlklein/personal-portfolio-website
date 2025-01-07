@@ -1,5 +1,5 @@
 
- ![alt text](src\assets\image.png)
+ ![alt text](src/assets/image.png)
 
 # Personal Portfolio Website
 
@@ -66,7 +66,7 @@ You can customize the website by:
 
 
 ## Main Colors Scheme
- ![alt text](src\assets\image.png)
+ ![alt text](src/assets/color-scheme.jpeg)
 
 
 ---
