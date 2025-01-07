@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- BACKGROUND -->
+  <rect width="32" height="32" rx="8" fill="#000000"/>
+  
+  <!-- CODE BRACKETS -->
+  <path d="M12 8 L8 16 L12 24" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+  <path d="M20 8 L24 16 L20 24" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+  
+  <!-- DOTS -->
+  <circle cx="16" cy="16" r="2" fill="#E9190F"/>
+</svg>

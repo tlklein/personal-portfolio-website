@@ -1,8 +1,6 @@
 ACTION ITEMS
 
-1. Add favion in browser
-1.5 Add gird on moble deploy
-2. Implement cloud-based Infrastructure
-3. Create documentation, diagrams, and pdfs. 
-4. deploy to git
-5. change README.md to have arch diagrams of cloud vpc
+1. Implement cloud-based Infrastructure
+2. Create documentation, diagrams, and pdfs. 
+3. deploy to git
+4. change README.md to have arch diagrams of cloud vpc
