@@ -18,14 +18,13 @@ A modern, responsive portfolio website showcasing software development projects 
 ## Project Structure
 
 ```
-portfolio-website/
-├── public/
-│   └── index.html          # Main HTML file
+personal-portfolio-website/
 ├── src/
-│   └── assests/
+│   └── assets/
 │       ├── image.png          # Preview image
 |       └── color-scheme.jpeg  # Project color scheme & hex codes
 │   └── main.css       # Stylesheet containing all styles
+└── index.html          # Main HTML file
 └── README.md          # Project documentation & installation guide   
 ```
 
