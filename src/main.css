@@ -99,7 +99,7 @@
 
   .hero-title {
     font-size: 5rem;
-    font-weight: 600;
+    font-weight: 200;
     letter-spacing: -0.003em;
     background: linear-gradient(90deg, #FFAE03, #E9190F);
     -webkit-background-clip: text;
@@ -142,7 +142,7 @@
 
   .section-title {
       font-size: 3rem;
-      font-weight: 600;
+      font-weight: 200;
       margin-bottom: 2rem;
       letter-spacing: -0.003em;
       background: linear-gradient(90deg, #FFAE03, #E9190F);
@@ -218,7 +218,7 @@
 
   .project-title {
     font-size: 2rem;
-    font-weight: 600;
+    font-weight: 200;
     margin-bottom: 0.5rem;
   }
 
@@ -363,7 +363,7 @@
   }
   
   .footer-info p:first-child {
-    font-weight: 600;
+    font-weight: 200;
     margin-bottom: 0.5rem;
   }
   
