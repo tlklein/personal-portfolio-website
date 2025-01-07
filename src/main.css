@@ -241,7 +241,6 @@
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 2rem;
     justify-content: center;
-    padding: 2rem;
 }
 
 .skill-card {
