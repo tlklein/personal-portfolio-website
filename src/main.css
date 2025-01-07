@@ -411,7 +411,7 @@
     border-top: 1px solid #eee;
     text-align: center;
     color: #666;
-    font-size: 0.875rem;
+    font-size: 1rem;
   }
   
   @media (max-width: 768px) {
