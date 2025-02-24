@@ -27,8 +27,11 @@ personal-portfolio-website/
 └── README.md          # Project documentation & installation guide   
 ```
 
-## Getting Started
+## Execution Instructions
 1. Clone or download this repository
+```
+gh repo clone tlklein/personal-portfolio-website
+```
 2. Open `index.html` in a web browser
    - For local development, using a local server is recommended to avoid CORS issues
    - You can start a simple Python server with: `python -m http.server`

@@ -2,5 +2,3 @@ ACTION ITEMS
 
 1. Implement cloud-based Infrastructure
 2. Create documentation, diagrams, and pdfs. 
-3. deploy to git
-4. change README.md to have arch diagrams of cloud vpc
