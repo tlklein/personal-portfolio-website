@@ -33,19 +33,6 @@ The website is optimized for modern browsers that support CSS3 features:
 - Safari (latest)
 - Edge (latest)
 
-## Project Structure
-```
-personal-portfolio-website/
-├── src/
-│   └── assets/
-│       ├── image.png          # Preview image
-|       ├── color-scheme.jpeg  # Project color scheme & hex codes
-|       └── favicon.svg        # Favicon image
-│   └── main.css       # Stylesheet containing all styles
-└── index.html          # Main HTML file
-└── README.md          # Project documentation & installation guide   
-```
-
 ## Execution Instructions
 1. Clone or download this repository
 ```
